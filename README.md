@@ -1,4 +1,4 @@
-### 👋**Hey there! I'm Vaibhav Srivastava**
+### <h2>👋Hey there! I'm Vaibhav Srivastava</h2>
 
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -44,6 +44,18 @@
 ### 🤝🏻 &nbsp;Want to Connect?
 
 <p align="center">
-<a href="https://linkedin.com/in/vaibhav-2107"><img src="https://img.shields.io/badge/-Vaibhav%20Srivastava%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:vaibhavsrivastava2107@gmail.com"><img src="https://img.shields.io/badge/-vaibhavsrivastava2107@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/v_____a____i___b__h_av"><img src="https://img.shields.io/badge/-@v_____a____i___b__h_av-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/vaibhav-2107/">
+  <img align="left" alt="Vaibhav's LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409945.svg" />
+</a>
+<a href="https://github.com/V2107v">
+  <img align="left" alt="Vaibhav's GitHub" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/270/270798.svg" />
+</a>
+<a href="https://www.instagram.com/v_____a____i___b__h_av/">
+  <img align="left" alt="Vaibhav's Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409946.svg" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100041462654239">
+  <img align="left" alt="Vaibhav's Facebook" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409943.svg"  class="white" />
+</a>
+  <a href="https://twitter.com/0_____000____0">
+  <img align="left" alt="Vaibhav's Twitter" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409937.svg" />
+</a>
